@@ -2,8 +2,8 @@
 SEGUNDO GII - SISTEMAS OPERATIVOS | En este proyecto se consigue simular, mediante procesos de UNIX, una carrera automovilística. 
 
 ## Compilación y Ejecución - Sistemas Linux
-Compilación: gcc -m32 falonso.c libfalonso.a -o falonso
-Ejecución: ./falonso {numero de coches(max.20)} {velocidad(0/1)}
+- Compilación: gcc -m32 falonso.c libfalonso.a -o falonso
+- Ejecución: ./falonso {numero de coches(max.20)} {velocidad(0/1)}
 
 ## Dependencias
 Las bibliotecas de Linux que se os dan para hacer la práctica de UNIX son bibliotecas de 32 bits. Si en clase o en casa tenéis un Linux de 64 bits, no os van a funcionar a no ser que tengáis preparado el sistema para desarrollo y ejecución de aplicaciones de 32 bits.
